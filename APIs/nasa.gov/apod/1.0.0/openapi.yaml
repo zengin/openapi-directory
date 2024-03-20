@@ -64,6 +64,7 @@ paths:
       summary: Returns images
       tags:
         - request tag
+      operationId: apod
 components:
   securitySchemes:
     api_key:

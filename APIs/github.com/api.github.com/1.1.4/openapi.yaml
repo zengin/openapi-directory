@@ -147,8 +147,6 @@ paths:
               example: "279"
               schema:
                 type: string
-        "304":
-          $ref: "#/components/responses/not_modified"
       summary: Render a Markdown document
       tags:
         - markdown
